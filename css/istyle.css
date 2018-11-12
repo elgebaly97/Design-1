@@ -1,0 +1,607 @@
+body{
+    overflow-x: hidden;
+}
+.header{
+    background-image: url(../images/tour_header_bg.jpg);
+    background-size: cover;
+    padding-bottom: 50px;
+    
+}
+.navbar a{
+    color: white !important;
+}
+
+.navnew{
+    border: 1px solid white;
+    border-radius: 6px;
+}
+
+.navbt{
+    color: black !important;
+    background-color: white;
+    border: 1px solid white;
+    border-radius: 20px ;
+}
+
+.home .ho1{
+    color: white;
+    width: 50%;
+    margin: auto;
+    
+    
+}
+
+.video{
+    text-align: center;
+}
+
+.ho2{
+    width: 60%;
+    margin: auto;
+}
+
+.block{
+    float: left;
+    width:40%;
+    
+}
+.help{
+    float: right;
+    width: 40%;
+}
+
+.clr{
+    clear: both;
+}
+
+.card{
+    background-color: rgba(255,255,255,0) !important;
+    color: white;
+}
+.gen{
+    width: 20%;
+    margin: auto;
+    
+}
+
+.genbtn{
+    border: 1px solid #007bff; 
+    border-radius: 35px;
+}
+
+.easy{
+    background-color: #f2f2f2;
+    padding-top: 100px;
+    
+    
+}
+
+.ea1{
+    width: 80%;
+    margin: auto;
+    margin-bottom: 20px;
+}
+
+.ea1 p{
+    line-height: 32px;
+    font-size: 22px;
+    font-weight: 300;
+    color: #141414;    
+}
+.ea1 h2{
+    line-height: 52px;
+    font-size: 42px;
+    font-weight: 300;
+    color: #141414;    
+}
+
+
+
+.ea2{
+    margin-top: 50px;
+    margin-bottom: 50px;
+}
+
+.ea2 p{
+    line-height: 28px;
+    font-size: 18px;
+    font-weight: 300;
+    color: #141414;
+    opacity: 0.7;
+}
+.ea2 h3{
+    line-height: 38px;
+    font-size: 28px;
+    font-weight: 300;
+    color: #141414;
+    
+}
+
+
+
+.ea2r{
+    width: 40%;
+    float: left;
+}
+.ea2l{
+    width: 40%;
+    float: right;
+}
+
+.eaimg{
+    position: relative;
+}
+
+.im2{
+    position: absolute;
+    top: 280px;
+    left: 90px;
+}
+.im3{
+    position: absolute;
+    top: 110px;
+    right: 40px;
+}
+
+
+.boot4{
+    background-color:#141414;
+    color: white;
+    padding-top: 100px;
+}
+.boot41{
+    
+}
+
+.boot41 h4{
+    font-size: 16px;
+    font-weight: 300;
+    line-height: 24px;
+}
+
+.boot41 h2{
+    font-size: 42px;
+    font-weight: 300;
+    line-height: 52px;
+    margin-bottom: 15px;
+    margin-top: 10px;
+}
+.boot41 p{
+    font-size: 22px;
+    font-weight: 300;
+    line-height: 32px;
+    opacity: 0.7;
+    margin-bottom: 85px;
+    margin-top: 25px;
+}
+
+.based {
+     margin-right: 90px;
+
+    margin-bottom: 35px;
+ }
+
+.based h3{
+    margin-bottom: 25px;
+    font-size: 22px;
+    font-weight: 300;
+    line-height: 24px;
+}
+.based p{
+    font-size: 18px;
+    font-weight: 300;
+    line-height: 28px;
+    opacity: 0.4;
+}
+
+
+.sp{
+    color: #18c967;
+    border-color: #18c967;
+    vertical-align: top;
+    padding: 0 8px;
+    border: 1px solid #18c967;
+    border-radius: 4px;
+    font-size: 15px;
+    
+    letter-spacing: 1.5px;
+    margin-left: 5px;
+    box-sizing: border-box;
+}
+
+.ne{
+    color: #2b48e7;
+    border-color: ##2b48e7;
+    vertical-align: top;
+    padding: 0 8px;
+    border: 1px solid #2b48e7;
+    border-radius: 4px;
+    font-size: 15px;
+    
+    letter-spacing: 1.5px;
+    margin-left: 5px;
+    box-sizing: border-box;
+}
+
+
+.try{
+    background-color: #d6d6d6;
+}
+
+.ptry{
+    display: inline-block; 
+    background-color: white; 
+    padding:1px 4px;
+    margin-right: 10px;
+    border: 1px solid white;
+    border-radius: 50%;
+}
+
+.itry{
+    background-color: #eff3f6;
+     padding:0px 10px !important;
+    font-size: 15px;
+    height: 26px;
+    line-height: 26px;
+    font-weight: 500;
+    margin-right: 6px;
+    
+    cursor: pointer;
+    border: 1px solid #d1d2d3;
+    border-radius: 0.25em;
+}
+
+.trys{
+    box-sizing: border-box;
+    padding: 100px;
+}
+
+.trys h2{
+    font-weight: 300;
+    font-size: 42px;
+    line-height: 52px;
+    margin-top: 20px;
+    margin-bottom: 10px;
+}
+
+.ptrys{
+    font-weight: 300;
+    font-size: 22px;
+    line-height: 32px;
+    margin-top: 20px;
+    
+}
+
+.idiv{
+    margin-top: 40px;
+    padding-bottom: 80px;
+    border-bottom: 1px solid #c8c9cc;
+    margin-bottom: 70px;
+}
+
+
+.tryim{
+    background-image: url(../images/tour_github_bg.jpg);
+    background-size: cover;
+}
+
+
+.cardim{
+    width: 170px;
+    height: 110px;
+    background-image: url(../images/tour_github_feature.jpg);
+    background-size: cover;
+    box-sizing: border-box;
+    box-shadow: 1px 1px #c8c9cc;
+    border-radius: 15px;
+    margin-bottom: 35px;
+}
+
+.cardim2{
+    width: 170px;
+    height: 110px;
+    padding-top: 10%;
+    text-align: center;
+   border: 1px solid #c8c9cc;
+    box-sizing: border-box;
+    box-shadow: 3px;
+    border-radius: 15px;
+    margin-bottom: 35px;
+
+}
+
+.trcard h3{
+    font-weight: 400;
+    font-size: 28px;
+    line-height: 38px;
+    color: #141414;
+    opacity: 0.7;
+}
+.trcard p{
+    font-weight: 300;
+    font-size: 18px;
+    line-height: 28px;
+    color: #141414;
+    opacity: 0.7;
+    margin-top: 25px;
+}
+
+.btncd{
+     margin-top: 25px;
+    border-radius: 20px;
+    padding-left: 20px;
+    padding-right: 20px;
+    font-size: 16px;
+    height: 40px;
+    font-weight: 400;
+    
+}
+
+.same{
+    padding-top: 100px;
+    padding-bottom: 150px;
+}
+
+.same1{
+ padding-left: 80px;
+    
+    
+}
+
+.same1 h2{
+    font-weight: 300;
+    font-size: 42px;
+    line-height: 52px;
+    color: #141414;
+    margin-top: 20px;
+    margin-bottom: 10px;
+
+}
+
+.same h4{
+    font-weight: 300;
+    font-size: 22px;
+    line-height: 32px;
+    margin-top: 20px;
+    margin-bottom: 10px;
+    margin-left: 10px;
+}
+.same p{
+    font-weight: 300;
+    font-size: 18px;
+    line-height: 28px;
+    margin-top: 20px;
+    
+}
+
+.same2{
+    background-image: url(../images/tour_feature_11_bg.jpg);
+    background-size: cover;
+    position: relative;
+}
+.phone{
+    position: absolute;
+    left: -200;
+    top:150;
+}
+
+
+.setup{
+    background-color:  #d6d6d6;
+    padding-top: 100px;
+    padding-bottom: 500px;
+    position: relative;
+}
+
+.setup h2{
+    font-weight: 300;
+    font-size: 42px;
+    line-height: 52px;
+    margin-top: 20px;
+    margin-bottom: 10px;
+    color: #141414;
+}
+
+.setup span{
+    margin-right: 25px;
+}
+
+
+.se1 p{
+    font-weight: 300;
+    font-size: 22px;
+    line-height: 32px;
+    margin-bottom: 70px;
+    margin-top: 30px;
+    color: #141414;
+}
+.easy1 h4{
+    color: #141414;
+    letter-spacing: 2.5px;
+    font-weight: 600;
+    font-size: 16px;
+    line-height: 26px;
+}
+
+.easy1 p{
+    color: #141414;
+    opacity: 0.7;
+    margin-top: 15px;
+    font-weight: 300;
+    font-size: 18px;
+    line-height: 28px;
+}
+
+.lay1{
+    position: absolute;
+    top: 150px;
+    right: 120px;
+    width: 160px;
+    height: 105;
+}
+
+.lay2{
+    position: absolute;
+    bottom: 250px;
+    right: 45px;
+    width: 255px;
+    height: 128px;
+}
+.lay3{
+    position: absolute;
+    bottom: 330px;
+    right: 425px;
+    width: 188px;
+    height: 112px;
+}
+.lay4{
+    position: absolute;
+    bottom: 265px;
+    left: 320px;
+    width: 255px;
+    height: 167px;
+}
+.lay5{
+    position: absolute;
+    bottom: 200px;
+    left: -140px;
+    width: 180px;
+    height: 80px;
+}
+.lay6{
+    position: absolute;
+    bottom: 185px;
+    right: 10px;
+    width: 200px;
+    height: 49px;
+}
+.lay7{
+    position: absolute;
+    bottom: 115px;
+    right: 280px;
+    width: 261px;
+    height: 115px;
+}
+.lay8{
+    position: absolute;
+    bottom: 385px;
+    right: -190px;
+    width: 200px;
+    height: 112px;
+}
+
+
+.create {
+    background-color: #141414;
+    padding-top: 90px;
+    padding-bottom: 45px;
+    
+}
+.cr1{
+    border: 1px solid #2c2c2c;
+    padding-right: 100px;
+    padding-left: 100px;
+    padding-bottom: 90px;
+    padding-top: 60px;
+    border-radius: 10px;
+    margin-bottom: 85px;
+}
+.cr1 h2{
+    font-weight: 300;
+    font-size: 62px;
+    line-height: 72px;
+    color: white;
+    margin-top: 20px;
+    margin-bottom: 10px;
+}
+.crebtn{
+    font-weight: 300;
+    font-size: 22px;
+    height: 80px;
+    /*line-height: 80px;*/
+    border-radius: 40px;
+    padding-left: 40px;
+    padding-right: 40px;
+    margin-top: 35px;
+}
+
+.crsec h5{
+    color: white;
+    letter-spacing: 2px;
+    font-weight: 600;
+    font-size: 14px;
+    line-height: 24px;
+}
+.crsec i{
+    color: white;
+    letter-spacing: 2px;
+    font-weight: 600;
+    font-size: 18px;
+    line-height: 24px;
+    margin-right: 10px;
+}
+
+.crsec p{
+    color: white;
+    opacity: 0.7;
+    font-weight: 300;
+    font-size: 18px;
+    line-height: 28px;
+    margin-left: 25px;
+    margin-top: 10px;
+}
+
+
+
+
+.over1{
+    width: 570px;
+    height:194px;
+    border: 1px solid rgba(255, 255, 255, 0.15);
+    border-radius: 8px;
+}
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
